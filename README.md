@@ -1,9 +1,17 @@
 # My Git Project
 
-> My innocent little change which will create merge conflicts
+> My code for the Git Project
+
 
 
 I'm in the feature branch
 
 
-Testing rebase
+
+
+
+
+
+
+otro
+un cambio
