@@ -1,7 +1,6 @@
 # My Git Project
 
-> My code for the Git Project
-
+> conflit remoto
 
 
 I'm in the feature branch
